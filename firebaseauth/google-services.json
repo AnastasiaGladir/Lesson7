@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154465972714",
+    "project_id": "lesson7-5d976",
+    "storage_bucket": "lesson7-5d976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154465972714:android:bef60aa9998f4c1f4ec293",
+        "android_client_info": {
+          "package_name": "ru.mirea.gladirap.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMT8SNTk9cEBk0whb_sE2Evn_3uQszjg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

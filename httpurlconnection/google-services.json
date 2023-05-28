@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932092907789",
+    "project_id": "lesson7-73339",
+    "storage_bucket": "lesson7-73339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932092907789:android:39f8bef904a236bc3ba044",
+        "android_client_info": {
+          "package_name": "ru.mirea.gladirap.httpurlconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh33zz4MsK1mG4xTcsJdsXFz_b8U_lSJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
